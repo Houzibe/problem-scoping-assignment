@@ -1,9 +1,11 @@
 -----------------------------------------------------------------------------------------------
-AI ACCELERATOR PROGRAM 
+AI ACCELERATOR PROGRAM
 PROBLEM SCOPING ASSIGNMENT
 By
 Houzibe Denis
 dhouzibe1@gmail.com
+
+Submitted on 25 February, 2026
 -----------------------------------------------------------------------------------------------
 PROBLEM SCOPING
 1-	Problem: 
@@ -61,6 +63,5 @@ ACCURACY	Precision Rate
 
 7-	Potential Data Sources
 The primary data source is partnering HMO. Historical Claims Data is the most critical dataset.
-
 
 
